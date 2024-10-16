@@ -55,14 +55,3 @@ git push origin main
 5. **Check for Conflicts**:
 
 - In case of any merge conflicts, resolve them carefully without overwriting others' work. If unsure, ask for help from your group or instructor.
-
-## Guidelines
-
-- **Do not edit other group's folders or files.** Each group should only work within their own folder.
-- Ensure your code is properly tested before committing.
-- Push your code frequently to avoid large merge conflicts.
-- When creating new files or directories, ensure they are placed in the correct section and group folders.
-- **Documentation**: If your code requires additional explanations or instructions, include a README file within your group folder to provide context for your contributions.
-- If you encounter issues or need clarification, feel free to reach out to the repository manager or the instructor.
-
-Let's maintain a clean and collaborative environment. Happy coding!
