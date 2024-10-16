@@ -55,3 +55,5 @@ git push origin main
 5. **Check for Conflicts**:
 
 - In case of any merge conflicts, resolve them carefully without overwriting others' work. If unsure, ask for help from your group or instructor.
+
+Let's maintain a clean and collaborative environment. Happy coding!
